@@ -33,6 +33,7 @@
             // 
             // btnClickMe
             // 
+            btnClickMe.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             btnClickMe.FlatAppearance.BorderColor = Color.Cyan;
             btnClickMe.FlatAppearance.BorderSize = 5;
             btnClickMe.FlatStyle = FlatStyle.Flat;
@@ -43,6 +44,7 @@
             btnClickMe.TabIndex = 0;
             btnClickMe.Text = "Click Me";
             btnClickMe.UseVisualStyleBackColor = true;
+            btnClickMe.Click += btnClickMe_Click;
             // 
             // Form1
             // 

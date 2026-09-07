@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\code\\C#\\demo3\\",
+  "WorkspaceRootPath": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C65D631-4CE8-4916-9760-B0D9570F18FC}|demo3\\demo3.csproj|d:\\code\\c#\\demo3\\demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3446C6DD-4CC1-14EC-0064-2679461EA834}|demo3\\demo3.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt3\\demo3\\demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3446C6DD-4CC1-14EC-0064-2679461EA834}|demo3\\demo3.csproj|solutionrelative:demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C65D631-4CE8-4916-9760-B0D9570F18FC}|demo3\\demo3.csproj|D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2C65D631-4CE8-4916-9760-B0D9570F18FC}|demo3\\demo3.csproj|solutionrelative:demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C65D631-4CE8-4916-9760-B0D9570F18FC}|demo3\\demo3.csproj|d:\\code\\c#\\demo3\\demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C65D631-4CE8-4916-9760-B0D9570F18FC}|demo3\\demo3.csproj|solutionrelative:demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3446C6DD-4CC1-14EC-0064-2679461EA834}|demo3\\demo3.csproj|d:\\code\\c#\\luquangminh_6551071053_btlt3\\demo3\\demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3446C6DD-4CC1-14EC-0064-2679461EA834}|demo3\\demo3.csproj|solutionrelative:demo3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +38,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\code\\C#\\demo3\\demo3\\Form1.cs",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\demo3\\Form1.cs",
               "RelativeDocumentMoniker": "demo3\\Form1.cs",
-              "ToolTip": "D:\\code\\C#\\demo3\\demo3\\Form1.cs*",
-              "RelativeToolTip": "demo3\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\demo3\\Form1.cs [Design]",
+              "RelativeToolTip": "demo3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T04:00:31.034Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\demo3\\Form1.cs",
+              "RelativeDocumentMoniker": "demo3\\Form1.cs",
+              "ToolTip": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\demo3\\Form1.cs",
+              "RelativeToolTip": "demo3\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAtwBwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-07T02:53:56.183Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\code\\C#\\demo3\\demo3\\Form1.cs",
+              "DocumentMoniker": "D:\\code\\C#\\LuQuangMinh_6551071053_BTLT3\\demo3\\demo3\\Form1.cs",
               "RelativeDocumentMoniker": "demo3\\Form1.cs",
-              "ToolTip": "D:\\code\\C#\\demo3\\demo3\\Form1.cs [Design]*",
-              "RelativeToolTip": "demo3\\Form1.cs [Design]*",
+              "ToolTip": "D:\\code\\C#\\demo3\\demo3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\demo3\\demo3\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-07T02:51:39.314Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-09-07T02:51:39.314Z"
             }
           ]
         }
